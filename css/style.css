@@ -1,0 +1,36 @@
+.py-4{
+  padding-top:3;
+  padding-bottom:3;
+}
+.p-4 {
+  padding: $spacer;
+}
+.mx{
+  margin-left: 65px;
+  margin-right:65px;
+}
+.p {
+  border-bottom: 3px solid black;
+}
+.l{
+  font-family: 'Bebas Neue', sans-serif;
+  font-family: 'DM Serif Display', serif;
+  font-size: 105px;
+}
+.m{
+  font-family: 'Outfit', sans-serif;
+}
+.f{
+  font-family: 'Bree Serif', serif;
+}
+.f1{
+  font-family: 'Figtree', sans-serif;
+}
+.hbg {
+  border: 1px solid #fdf5e6;
+  padding: 5px;
+  background: #fdf5e6;
+ }
+.bg{
+  background: #dbecf4;
+}
