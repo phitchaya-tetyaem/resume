@@ -35,8 +35,8 @@ crossorigin="anonymous"></script>
           <div class="row">
             <div class="col-md-5">
               <div class="b">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                &nbsp;&nbsp; <img src="img/me.jpg" alt="" style="width: 200px; height: 200px;">
-                <br>
+                &nbsp;&nbsp; <img src="img/me.jpg" class="img-thumbnail" alt=""
+                  style="width: 200px; height: 200px;"> <br>
                 <br>
                 <div class="normal1">
                   <div class="f">
