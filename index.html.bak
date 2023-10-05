@@ -4,149 +4,192 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap demo</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+
       crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;family=DM+Serif+Display&amp;display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;family=DM+Serif+Display&amp;display=swap"
+
       rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300&amp;display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300&amp;display=swap"
+
       rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&amp;family=Figtree:wght@300&amp;display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&amp;family=Figtree:wght@300&amp;display=swap"
+
       rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped&amp;display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped&amp;display=swap"
+
       rel="stylesheet">
     <link type="text/css" rel="stylesheet" href="css/stlye.css">
   </head>
   <body>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+
 crossorigin="anonymous"></script>
     <div class="container">
       <div class="py-4">
         <div class="mx">
           <div class="row">
-            <div class="col-md-5">
-              <div class="b">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                &nbsp;&nbsp; <img src="img/me.jpg" class="img-thumbnail" alt=""
-                  style="width: 200px; height: 200px;"> <br>
+            <div class="col--sm-6 col-md-6 ">
+              <div class="b"> <img src="img/me.jpg" class="img-thumbnail" 
+
+                  alt="" style="width: 200px; height: 200px;"> <br>
                 <br>
                 <div class="normal1">
                   <div class="f">
-                    <h4> <strong>Contact Me&nbsp; <img src="img/icons8-contact-30.png"
+                    <h4> <strong>Contact Me&nbsp; <img src="img/icons8-contact-30.png"
+
                           alt=""><br>
                       </strong></h4>
                   </div>
                 </div>
                 <div class="p-4">
-                  <div class="f1">&nbsp; <img src="img/icons8-phone-30.png" alt=""><img
+                  <div class="f1"> <img src="img/icons8-phone-30.png" alt=""><img
+
                       src="img/icons8-line-30.png" alt="">0972581207<br>
                     <br>
-                    &nbsp; <img src="img/icons8-email-30.png" alt=""><img src="img/icons8-line-30.png"
+                    <img src="img/icons8-email-30.png" alt=""><img src="img/icons8-line-30.png"
+
                       alt="">phitchayaa07@gmail.com </div>
                   <br>
-                  <div class="f1">&nbsp; <img src="img/icons8-location-30.png"
-                      alt=""><img src="img/icons8-line-30.png" alt="">179,
-                    Village No.1, Chongsakae&nbsp; Subdistrict, Muang District,
-                    Phetchaburi, 76000 </div>
+                  <div class="f1"><img src="img/icons8-location-30.png" alt=""><img
+
+                      src="img/icons8-line-30.png" alt="">179, Village No.1,
+                    Chongsakae&nbsp; Subdistrict, Muang District, Phetchaburi,
+                    76000 </div>
                 </div>
                 <br>
                 <div class="normal1">
                   <div class="f">
-                    <h4> <strong>Skills &nbsp;<img src="img/icons8-skill-30%20%281%29.png"
+                    <h4> <strong>Skills &nbsp;<img src="img/icons8-skill-30%20%281%29.png"
+
                           alt=""></strong> </h4>
                   </div>
                 </div>
                 <div class="p-4">
                   <div class="f1">
-                    <h5> <span class="OYPEnA text-decoration-none text-strikethrough-none"
+                    <h5> <span class="OYPEnA text-decoration-none text-strikethrough-none"
+
                         style="color: rgb(30, 25, 25); font-weight: 400; font-style: normal;">Basic
-                        computer&nbsp;</span>&nbsp;&nbsp;&nbsp;
-                      &nbsp;&nbsp;&nbsp; <img src="img/icons8-filled-circle-24%20%281%29.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
-                        alt="" style="width: 20px; height: 20px;"> literacy
-                      skills </h5>
+                        computer literacy skills</span><br>
+                      <img src="img/icons8-filled-circle-24%20%281%29.png" alt=""
+
+                        style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
+
+                        alt="" style="width: 20px; height: 20px;"> </h5>
                     <br>
-                    <h5> Project &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-                      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="img/icons8-filled-circle-24%20%281%29.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
-                        alt="" style="width: 18px; height: 18px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
-                        alt="" style="width: 19px; height: 19px;">&nbsp;
-                      Management</h5>
+                    <h5> Project Management <br>
+                      <img src="img/icons8-filled-circle-24%20%281%29.png" alt=""
+
+                        style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
+
+                        alt="" style="width: 18px; height: 18px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
+
+                        alt="" style="width: 19px; height: 19px;"> </h5>
                     <br>
-                    <h5> Communication &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img
-                        src="img/icons8-filled-circle-24%20%281%29.png" alt="" style="width: 19px; height: 19px;">
-                      <img src="img/icons8-filled-circle-24%20%281%29.png" alt=""
-                        style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
-                        alt="" style="width: 18px; height: 18px;"> <img src="img/icons8-filled-circle-24.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
+                    <h5> Communication <br>
+                      <img src="img/icons8-filled-circle-24%20%281%29.png" alt=""
+
+                        style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
+
+                        alt="" style="width: 18px; height: 18px;"> <img src="img/icons8-filled-circle-24.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
+
                         alt="" style="width: 19px; height: 19px;"> </h5>
                     <br>
                     <h5> </h5>
-                    <h5>
-                      Teamwork&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                      <img src="img/icons8-filled-circle-24%20%281%29.png" alt=""
-                        style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
+                    <h5> Teamwork <br>
+                      <img src="img/icons8-filled-circle-24%20%281%29.png" alt=""
+
+                        style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
+
                         alt="" style="width: 19px; height: 19px;"> </h5>
                   </div>
                 </div>
                 <br>
                 <div class="normal1">
                   <div class="f">
-                    <h4> <strong>Language &nbsp;<img src="img/icons8-language-30.png"
+                    <h4> <strong>Language &nbsp;<img src="img/icons8-language-30.png"
+
                           alt=""></strong> </h4>
                   </div>
                 </div>
                 <div class="p-4">
                   <div class="f1">
-                    <h5> Thai&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-                      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-                      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img src="img/icons8-filled-circle-24%20%281%29.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
+                    <h5> Thai <br>
+                      <img src="img/icons8-filled-circle-24%20%281%29.png" alt=""
+
+                        style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
+
                         alt="" style="width: 19px; height: 19px;"></h5>
                     <br>
-                    <h5> English&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-                      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="img/icons8-filled-circle-24%20%281%29.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
+                    <h5> English <br>
+                      <img src="img/icons8-filled-circle-24%20%281%29.png" alt=""
+
+                        style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
+
                         alt="" style="width: 19px; height: 19px;"></h5>
                     <br>
-                    <h5> Korean&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-                      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-                      &nbsp;&nbsp;&nbsp; <img src="img/icons8-filled-circle-24%20%281%29.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
-                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
+                    <h5> Korean<br>
+                      <img src="img/icons8-filled-circle-24%20%281%29.png" alt=""
+
+                        style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24%20%281%29.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
+
+                        alt="" style="width: 19px; height: 19px;"> <img src="img/icons8-filled-circle-24.png"
+
                         alt="" style="width: 19px; height: 19px;"></h5>
                   </div>
                 </div>
               </div>
               <br>
             </div>
-            <div class="col-md-7"> <br>
+            <div class="col-sm-6 col-md-6"> <br>
               <br>
               <br>
               <br>
@@ -155,6 +198,9 @@ crossorigin="anonymous"></script>
                 <h1> Phitchaya Tetyaem</h1>
               </div>
               <br>
+              <div class="l">
+                <h1> 640510819 </h1>
+              </div>
               <div class="m">
                 <h3><br>
                 </h3>
@@ -166,7 +212,8 @@ crossorigin="anonymous"></script>
               <br>
               <div class="normal">
                 <div class="f">
-                  <h4> <strong>About Me&nbsp; <img src="img/icons8-user-30.png"
+                  <h4> <strong>About Me&nbsp; <img src="img/icons8-user-30.png"
+
                         alt=""><br>
                     </strong></h4>
                 </div>
@@ -182,7 +229,8 @@ crossorigin="anonymous"></script>
               <br>
               <div class="normal">
                 <div class="f">
-                  <h4> <strong>Experience &nbsp;<img src="img/icons8-experience-30%20%281%29.png"
+                  <h4> <strong>Experience &nbsp;<img src="img/icons8-experience-30%20%281%29.png"
+
                         alt=""></strong> </h4>
                 </div>
               </div>
@@ -192,13 +240,15 @@ crossorigin="anonymous"></script>
                       Time</strong> </h5>
                   <h6>&nbsp; May - June 2023 </h6>
                   <h5>&nbsp;&nbsp;&nbsp;&nbsp; <strong>CPALL</strong> </h5>
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/icons8-filled-circle-24%20%281%29.png"
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/icons8-filled-circle-24%20%281%29.png"
+
                     alt="" style="width: 13px; height: 13px;"> Cashier </div>
               </div>
               <br>
               <div class="normal">
                 <div class="f">
-                  <h4><strong> Education &nbsp;<img src="img/icons8-education-30.png"
+                  <h4><strong> Education &nbsp;<img src="img/icons8-education-30.png"
+
                         alt=""></strong> </h4>
                 </div>
               </div>
