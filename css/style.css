@@ -1,36 +1,57 @@
-.py-4{
-  padding-top:3;
-  padding-bottom:3;
+
+h1 {
+  text-align: center;
 }
-.p-4 {
-  padding: $spacer;
-}
-.mx{
-  margin-left: 65px;
-  margin-right:65px;
+h4 {
+  text-align: center;
 }
 .p {
   border-bottom: 3px solid black;
 }
-.l{
-  font-family: 'Bebas Neue', sans-serif;
-  font-family: 'DM Serif Display', serif;
-  font-size: 105px;
+.bg{
+  background-color: #a49aff;
 }
-.m{
-  font-family: 'Outfit', sans-serif;
+.bg1{
+  background-color: #fffaf7;
+}
+
+.bg2{
+  background-color: #f4eaf5;
+}
+.bg3{
+  background-color: #FCF5E7;
+}
+.bgc{
+  background-color: #a4a4c0;
+}
+.p-4 {
+  padding: $spacer;
 }
 .f{
-  font-family: 'Bree Serif', serif;
+ font-family: 'Mitr', sans-serif;
 }
 .f1{
   font-family: 'Figtree', sans-serif;
 }
-.hbg {
-  border: 1px solid #fdf5e6;
-  padding: 5px;
-  background: #fdf5e6;
- }
-.bg{
-  background: #dbecf4;
+.f2{
+  font-family: 'Noto Sans Thai Looped', sans-serif;
+}
+.affix {
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+  }
+
+.affix + .container-fluid {
+    padding-top: 70px;
+  }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.img {
+  -webkit-filter: blur(10px); /* Safari 6.0 - 9.0 */
+  filter: blur(10px);
 }
